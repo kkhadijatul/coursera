@@ -1,0 +1,51 @@
+body{
+    background-color: #61122f;
+    font-size: 16px;
+    color: #fff;
+    font-family: 'Oxygen','san-serif';
+}
+
+#header-nav{
+    background-color: orange;
+    
+}
+
+.navbar-brand{
+    padding-top: 25px;
+    padding-bottom: 40px;
+}
+
+.navbar-brand:hover, .navbar-brand:focus{
+    text-decoration: none;
+}
+
+.navbar-brand h1{
+    text-transform: uppercase;
+    color: #557c3e;
+    font-family: 'Lora', 'serif';
+    font-size: 1.9em;
+    position: relative;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-shadow: 1px 1px 1px #000;
+    line-height: .5em;
+    padding-bottom: 25px;
+}
+
+.nav-list{
+    margin: 10px;
+}
+
+
+.navbar-header button.navbar-toggle ,.navbar-header .icon-bar{
+    border: 1px solid #61122f;
+}
+
+.navbar-header button.navbar-toggle{
+    clear: both;
+    margin-top: -33px;
+}
+#nav-list li p{
+    background-color: #8e2483;
+    
+}
